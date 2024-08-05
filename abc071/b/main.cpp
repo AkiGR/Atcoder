@@ -10,7 +10,7 @@ int main() {
 
     for (char c = 'a'; c <= 'z'; ++c) {
         if (letters.find(c) == letters.end()) {
-            result = std::string(1, c);
+            result = string(1, c);
             break;
         }
     }

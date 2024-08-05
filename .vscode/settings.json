@@ -1,5 +1,10 @@
 {
     "cSpell.words": [
         "testdir"
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "vector": "cpp",
+        "iosfwd": "cpp"
+    }
 }
